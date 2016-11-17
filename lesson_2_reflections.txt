@@ -1,1 +1,15 @@
 Why use git respositories?
+
+
+How is the staging area different from the working directory
+and the repository? What value do you think it offers?
+
+staging area contains files ready to be committed while work directory
+is only files in the folder; this lets you have control over what gets
+committed
+
+What are some situations when branches would be
+helpful in keeping your history organized?
+How would branches help?
+
+if i was adding a brand new database architecture 
